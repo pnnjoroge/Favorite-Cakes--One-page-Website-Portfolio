@@ -1,2 +1,3 @@
-# Favorite-Cakes--One-page-Website-Portfolio
-One Page Personal Website Portfolio Using HTML and CSS
+# One Page Website Portfolio
+## A one-page project showcasing my favorite cakes, using clean HTML/CSS design.
+### Page: (https://pnnjoroge.github.io/Favorite-Cakes--One-page-Website-Portfolio/)
